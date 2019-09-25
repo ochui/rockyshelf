@@ -1,0 +1,1 @@
+web: gunicorn rockyshelf.wsgi --log-file -
