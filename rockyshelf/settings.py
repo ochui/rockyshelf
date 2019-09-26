@@ -41,6 +41,7 @@ INSTALLED_APPS = [
 
     # local apps
     'accounts.apps.AccountsConfig',
+    'elearning.apps.ElearningConfig',
 
     # 3'rd party apps
     'phonenumber_field',
